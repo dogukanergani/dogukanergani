@@ -9,9 +9,8 @@
 
 - 🎓 1st-year **Statistics** student, focusing on first-principles logic and data analysis.
 - 💼 Entrepreneur and business owner based in Ankara (**Kaleli Tekel** & **Hisar Nakliyat**).
-- 🔭 Currently developing **Last Signal**, a 3D post-nuclear survivor game.
+- 🔭 Currently developing a 3D post-nuclear survivor game.
 - 🌐 Building modern web experiences and professional sites like **TectoGrid**.
-- 🎮 CS2 Competitor & Captain/AWP for the tactical team **Night Eagles**.
 
 ---
 
