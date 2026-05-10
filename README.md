@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm [Adın veya Kullanıcı Adın] 👋 </h1>
+<h1 align="center"> Hi, I'm Doğukan Ergani 👋 </h1>
 <p align="center">
   <i>A passionate developer, entrepreneur, and statistics student 📊</i>
 </p>
