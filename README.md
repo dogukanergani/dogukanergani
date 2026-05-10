@@ -49,7 +49,7 @@
 
 ### 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dogukan0625344@gmail.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dogukanergani06@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-doğukan-ergani)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.velorailetisim.com/)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **Email:** [dogukan0625344@gmail.com](mailto:dogukan0625344@gmail.com)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **Email:** [dogukanergani06@gmail.com](mailto:dogukanergani06@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) **LinkedIn:** [Doğukan Ergani](https://www.linkedin.com/in/do%C4%9Fukan-ergani-6a1900299/)
+- ![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white) **Website:** [velorailetisim.com](https://www.velorailetisim.com)
