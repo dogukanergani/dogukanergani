@@ -40,5 +40,5 @@
 
 * 📧 **Email:** dogukan0625344@gmail.com
 * 📧 **Email:** dogukanergani06@gmail.com
-* 💼 **LinkedIn:** [Doğukan Ergani](https://www.linkedin.com/)
+* 💼 **LinkedIn:** [Doğukan Ergani](https://www.linkedin.com/doğukanergani)
 * 🌐 **Website:** [velorailetisim.com](https://velorailetisim.com)
