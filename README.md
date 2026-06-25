@@ -8,7 +8,7 @@
 
 * 🔭 Currently focusing on **Machine Learning**, **Computer Vision**, and **Autonomous Systems**.
 * 🌱 Deepening my knowledge in **Python**, **C++**, and preparing to build real-time object detection models with **YOLO** and **OpenCV**.
-* 🎓 1st-year Statistics student at Gazi University, bridging first-principles logic, probability, and data science.
+* 🎓 Statistics student at Gazi University, bridging first-principles logic, probability, and data science.
 * 💼 Founder of Velora Media & Technology, building scalable, modern web architectures using **Next.js** and **TypeScript**.
 * 🎮 In my free time, I develop complex OOP systems, custom animations, and combat mechanics in Unity using C#.
 
