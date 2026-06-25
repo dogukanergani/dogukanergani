@@ -1,55 +1,44 @@
-<h1 align="center"> Hi, I'm Doğukan Ergani 👋 </h1>
-<p align="center">
-  <i>A passionate developer, entrepreneur, and statistics student 📊</i>
-</p>
+# Hi, I'm Doğukan Ergani 👋
+
+*AI & Web Developer | Statistics Student @ Gazi Univ. | Founder @ Velora*
 
 ---
 
 ### 💻 About Me
 
-- 🎓 1st-year **Statistics** student, focusing on first-principles logic and data analysis.
-- 💼 Entrepreneur and business owner based in Ankara (**Velora Media & Technology**).
-- 📈 Experienced in digital marketing; managing **Google Ads** and **Meta Ads** campaigns.
-- 🔭 Currently developing a 3D post-nuclear survivor game.
-- 🌐 Building modern web experiences and professional sites like **TectoGrid** and **Keçiören Tekel Bayii**.
+* 🔭 Currently focusing on **Machine Learning**, **Computer Vision**, and **Autonomous Systems**.
+* 🌱 Deepening my knowledge in **Python**, **C++**, and preparing to build real-time object detection models with **YOLO** and **OpenCV**.
+* 🎓 1st-year Statistics student at Gazi University, bridging first-principles logic, probability, and data science.
+* 💼 Founder of Velora Media & Technology, building scalable, modern web architectures using **Next.js** and **TypeScript**.
+* 🎮 In my free time, I develop complex OOP systems, custom animations, and combat mechanics in Unity using C#.
 
 ---
 
-### ⚙️ Tech Stack
+### 🛠️ Tech Stack
 
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Programming Languages & Core:**
+`Python` `C++` `C#` `SQL` `JavaScript` `R`
 
-#### 🛠 Tools & Technologies
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**AI & Data Science (Learning/Focusing):**
+`Computer Vision` `PyTorch` `YOLO` `OpenCV` `Pandas` `NumPy`
 
-#### 📢 Digital Marketing
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat&logo=google&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-0468FF?style=flat&logo=meta&logoColor=white)
+**Web & Tools:**
+`Next.js` `React` `Docker` `Git` `Unity`
 
 ---
 
 ### 🏆 Projects & Experience
 
-- 💻 **TectoGrid:** A professional web platform built and deployed utilizing Next.js and Vercel: [tectogrid.com](https://www.tectogrid.com/)
-- 🛒 **Keçiören Tekel Bayii:** A web platform developed for our family business to strengthen its digital presence: [keciorentekelbayii.com](https://keciorentekelbayii.com/)
-- ☢️ **Last Signal:** Independent developer of a 3D survival game featuring complex melee combat systems, custom animations, and narrative depth.
-- 📦 **Inventory Management System:** Developed a custom barcode and touch-screen tracking system for retail management.
-- 🤖 **AI Integration & Research:** Actively utilizing generative AI tools for business workflows.
+* 👁️ **Retail Vision Analytics (WIP):** Designing a real-time object detection and customer tracking architecture for retail environments using computer vision.
+* 💻 **TectoGrid & Velora:** Engineered professional, SEO-optimized web platforms deployed utilizing Next.js and Vercel.
+* 📦 **Inventory Management System:** Developed a custom barcode and touch-screen tracking system to optimize physical retail management.
+* ☢️ **Last Signal:** Independent developer of a 3D survival game featuring complex melee combat scripts, state machines, and narrative depth.
 
 ---
 
 ### 📫 Let's Connect!
 
-- ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **Email:** [dogukan0625344@gmail.com](mailto:dogukan0625344@gmail.com)
-- ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **Email:** [dogukanergani06@gmail.com](mailto:dogukanergani06@gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) **LinkedIn:** [Doğukan Ergani](https://www.linkedin.com/in/do%C4%9Fukan-ergani-6a1900299/)
-- ![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white) **Website:** [velorailetisim.com](https://www.velorailetisim.com)
+* 📧 **Email:** dogukan0625344@gmail.com
+* 📧 **Email:** dogukanergani06@gmail.com
+* 💼 **LinkedIn:** [Doğukan Ergani](https://www.linkedin.com/)
+* 🌐 **Website:** [velorailetisim.com](https://velorailetisim.com)
